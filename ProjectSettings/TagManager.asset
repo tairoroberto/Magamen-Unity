@@ -7,6 +7,7 @@ TagManager:
   - Bloco
   - Projetil
   - Inimigo
+  - SubInimigo
   layers:
   - Default
   - TransparentFX

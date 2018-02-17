@@ -1,8 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SubInimigoScript.cs">
     <Files>
-      <File FileName="Assets\Scripts\PlayerScript.cs" Line="44" Column="21" />
+      <File FileName="Assets\Scripts\PlayerScript.cs" Line="54" Column="44" />
+      <File FileName="Assets\Scripts\ProjetilScript.cs" Line="23" Column="34" />
+      <File FileName="Assets\Scripts\ArmaScript.cs" Line="9" Column="2" />
+      <File FileName="Assets\Scripts\InimigoScript.cs" Line="31" Column="2" />
+      <File FileName="Assets\Scripts\SubInimigoScript.cs" Line="26" Column="60" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
